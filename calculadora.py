@@ -1,5 +1,6 @@
 #crear una calculadora interactiva que tome una entrada de usuario y realice 
-#una de las cuatro operaciones básicas (suma, resta, multiplicación o división) tomando dos números
+#una de las cuatro operaciones básicas (suma, resta, multiplicación o división) 
+#Tomando dos números que deberá pedir al usuario
 #Para esto deberá crear al menos 4 funciones: una para cada operación matemática
 
 
