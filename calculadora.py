@@ -5,9 +5,23 @@
 #Las cuatro funciones deben ser creadas por separado, pero, una vez creadas, deberá integrar cada una de ellas dentro
 #de la función calculadora()
 
+#función suma
 
 
-#ejemplo función que muestra el menú
+
+
+#función resta
+
+
+
+#función división
+
+
+
+#función multiplicación
+
+
+#función que muestra el menú
 def mostrar_menu():
     print("Seleccione una operación:")
     print("1. Suma")
